@@ -1,0 +1,1 @@
+web: gunicorn tuesdays.wsgi --log-file -
